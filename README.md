@@ -2,7 +2,7 @@
 
 This script can be used to deploy OpenStack-Xena on CentOS 8-stream. Use this script to complete the entire deployment process, except that the deployment process does not include the deployment of Storage nodes.
 
-[![](https://github.com/bcYwpK3/ShellScript-OpenStack-xena/blob/main/Screenshots.jpg)]
+(https://github.com/bcYwpK3/ShellScript-OpenStack-xena/blob/main/Screenshots.jpg)
 
 ## Requirements
 
