@@ -9,7 +9,15 @@ This script can be used to deploy OpenStack-Xena on CentOS 8-stream. Use this sc
 You need to prepare a clean and minimally installed CentOS 8-stream server.  You need to manually specify hostname and fixed IP address to make sure they are connected to each other.
 
 ## Document overview
-
+~~~
+├── 1-Controller-base.sh      # This is the basic configuration for the control node on which it should run.
+├── 2-Other-base.sh           # This is the base configuration for other nodes, which should run on other nodes besides the control node.
+├── keyston-script            # This is a folder where keyston variables are stored.
+│   └── admin-openrc          # This is the variable file used for authentication on the client side.
+├── LICENSE                   # This is an open source license file.
+├── README.md                 # This is a must-read file.
+└── Screenshots.jpg           # This is an architectural picture.
+~~~
 to be added.............
 
 **！！！After the minimum installation, do not perform any operations. Modify and run the project script based on the system environment  ！！！**
