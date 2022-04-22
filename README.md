@@ -10,7 +10,6 @@ You need to prepare a clean and minimally installed CentOS 8-stream server.  You
 
 ## Document overview
 ~~~
-
 ├── 1-Controller-base.sh      # This is the basic configuration for the control node on which it should run.
 ├── 2-Other-base.sh           # This is the base configuration for other nodes, which should run on other nodes besides the control node.
 ├── 3-Controller-keystone.sh
