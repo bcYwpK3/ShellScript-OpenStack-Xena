@@ -29,9 +29,9 @@ to be added.............
 
 - Operating system version: CentOS 8/8-STREAM or RHEL 8
 - You need at least one Controller node, one Compute node, and one Neutron node.
-- The Controller node requires at least two cpus and 4GB memory.
-- The Compute node requires at least two cpus, 4GB memory, and 80 GB disks.
-- The Neutron node requires at least one cpus and two memory.
+- The Controller node requires at least 2 cpus and 4GB memory.
+- The Compute node requires at least 2 cpus, 4GB memory, and 80 GB disks.
+- The Neutron node requires at least 1 cpus and 2GB memory.
 
 ## License
 
